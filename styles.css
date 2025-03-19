@@ -1,0 +1,216 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #0077b5;
+}
+
+header img {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%;
+    padding: 5px; 
+    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    display: block;
+    margin: 0 auto;
+}
+
+
+.info p {
+    margin: 5px 0;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.social-links a {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: #0077b5;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    color: #005582;
+}
+
+.social-links i {
+    font-size: 24px;
+}
+
+section {
+    margin-top: 20px;
+    background: #252525;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h2 {
+    background: #0077b5;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card {
+    padding: 10px;
+    border-left: 5px solid #0077b5;
+    background: #333;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tags span {
+    background: #0077b5;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #333;
+}
+
+th, td {
+    border: 1px solid #555;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #0077b5;
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        padding: 10px;
+    }
+
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    header img {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        padding: 10px;
+    }
+
+    header img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .info h1 {
+        font-size: 22px;
+    }
+
+    .info p {
+        font-size: 14px;
+    }
+
+    .social-links {
+        flex-direction: column; 
+        gap: 10px;
+    }
+
+    .social-links a {
+        font-size: 16px;
+    }
+
+    section {
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 18px;
+        padding: 8px;
+    }
+
+    .card {
+        padding: 8px;
+    }
+
+    .tags {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .tags span {
+        display: block;
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 6px;
+    }
+}
+
+.languages {
+    overflow-x: auto;
+}
+
+.languages table {
+    width: 100%; 
+    table-layout: fixed; 
+    word-wrap: break-word; 
+}
+
+.languages th, .languages td {
+    padding: 10px;
+    text-align: center;
+    font-size: 14px; 
+}
+
+@media (max-width: 600px) {
+    .languages table {
+        font-size: 12px; 
+    }
+}

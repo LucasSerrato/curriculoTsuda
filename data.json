@@ -1,0 +1,42 @@
+{
+    "nome": "Lucas S.",
+    "data_nascimento": "01/05/2001",
+    "email": "lucas.sbonito@senacsp.edu.br",
+    "telefone": "(11) 999002298",
+    "foto": "foto.jpg",
+    "redes_sociais": {
+        "LinkedIn": "https://www.linkedin.com/in/lucasserrato201/",
+        "GitHub": "https://github.com/LucasSerrato"
+    },
+    "experiencias_profissionais": [
+        {
+            "empresa": "Credit Suisse",
+            "cargo": "Analista de Sistemas Jr",
+            "periodo": "Desde 2022"
+        }
+    ],
+    "formacao_academica": [
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao": "Senac Santo Amaro",
+            "conclusao": "2025"
+        }
+    ],
+    "conhecimentos": [
+        "JavaScript", "React", "Node.js", "Banco de Dados", "Desenvolvimento Web", "Java", "HTML", "CSS"
+    ],
+    "idiomas": [
+        {
+            "idioma": "Inglês",
+            "leitura": "Intermediário",
+            "escrita": "Intermediário",
+            "conversacao": "Básico"
+        },
+        {
+            "idioma": "Espanhol",
+            "leitura": "Básico",
+            "escrita": "Básico",
+            "conversacao": "Básico"
+        }
+    ]
+}
