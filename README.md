@@ -1,4 +1,4 @@
-# 📄 Curriculum
+# 📄 Curriculum  |  Currículo
 
 ## 📋 Description | Descrição
 
