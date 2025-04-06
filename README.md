@@ -1,4 +1,4 @@
-# 📄 Tsuda Curriculum
+# 📄 Curriculum
 
 ## 📋 Description | Descrição
 
