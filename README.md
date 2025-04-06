@@ -1,99 +1,83 @@
-# 📄 Curriculum
-📋 Description
-This project was developed as part of an academic assignment, in which the professor requested the creation of a digital curriculum (online résumé). The goal was to transform a traditional curriculum into a responsive, structured, and visually appealing web application using web technologies.
+# 📄 Tsuda Curriculum
 
-The result is a modern, minimalist digital curriculum template named Tsuda Curriculum, implemented entirely with HTML, CSS, and optionally a JSON file for dynamic data population.
+## 📋 Description | Descrição
 
-🎓 Academic Context and Technologies Used
-The project is built on the fundamentals of Front-End Web Development, focusing on semantic HTML and structured CSS to ensure clarity, maintainability, and responsiveness. Here's a breakdown of the technologies:
+This project was developed as part of an academic assignment, where the goal was to turn a traditional résumé into a responsive, structured, and visually appealing web application using modern web technologies.
 
-HTML5: Used to create the semantic structure of the page. Tags like <header>, <section>, <article>, and <footer> ensure logical organization of content, improving accessibility and SEO.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de transformar um currículo tradicional em uma aplicação web responsiva, estruturada e visualmente agradável, utilizando tecnologias da web.
 
-CSS3: Responsible for styling the document. It employs responsive design principles using media queries to ensure the layout adapts well to different screen sizes, including mobile devices.
+The result is a modern and minimalist digital résumé template called **Tsuda Curriculum**, built entirely with HTML and CSS, and optionally using JSON for data simulation.
 
-JSON (Optional): May be used to hold the data structure (e.g., name, education, experience). Although this version loads data statically, it was designed to simulate dynamic data-driven rendering for educational purposes.
+O resultado é um modelo de currículo digital moderno e minimalista chamado **Currículo Tsuda**, implementado totalmente com HTML, CSS e, opcionalmente, JSON para simulação de dados dinâmicos.
 
-Separation of Concerns: The HTML handles the structure, CSS handles the visual design, and the optional JSON simulates a data layer — demonstrating an academic understanding of modular design principles.
+---
 
-🚀 Features
-Clean, semantic HTML structure
+## 🎓 Technologies Used | Tecnologias Utilizadas
 
-Fully responsive layout
+- **HTML5**: Semantic structure with elements like `<header>`, `<section>`, `<article>`, and `<footer>` for improved accessibility and SEO.  
+  **HTML5**: Estrutura semântica com elementos como `<header>`, `<section>`, `<article>` e `<footer>`, melhorando acessibilidade e SEO.
 
-Easy customization with minimal coding
+- **CSS3**: Responsive design using media queries, ensuring good performance across different screen sizes.  
+  **CSS3**: Design responsivo com media queries, garantindo boa performance em diferentes tamanhos de tela.
 
-Educational value for learning front-end principles
+- **JSON (optional)**: Used to simulate dynamic content like name, education, and experience.  
+  **JSON (opcional)**: Utilizado para simular conteúdo dinâmico como nome, formação e experiência.
 
-▶️ How to Use
-bash
-Copiar
-Editar
+- **Separation of Concerns**: Structure (HTML), design (CSS), and data (JSON) kept modular for clarity.  
+  **Separação de Responsabilidades**: Estrutura (HTML), design (CSS) e dados (JSON) mantidos de forma modular para maior clareza.
+
+---
+
+## 🚀 Features | Funcionalidades
+
+- ✅ Semantic and clean HTML structure  
+- ✅ Fully responsive layout  
+- ✅ Easy to customize  
+- ✅ Great for front-end learning projects
+
+- ✅ Estrutura HTML semântica e limpa  
+- ✅ Layout totalmente responsivo  
+- ✅ Fácil de personalizar  
+- ✅ Ótimo para projetos educacionais de front-end
+
+---
+
+## ▶️ How to Use | Como Usar
+
+```bash
 git clone https://github.com/LucasSerrato/curriculoTsuda.git
 cd curriculoTsuda
-Open the index.html file in a web browser.
+```
 
-Optionally edit the content in the HTML or JSON (if implemented) to reflect your personal details.
+- Open the `index.html` file in your browser.  
+  Abra o arquivo `index.html` no navegador.
 
-Customize the look via styles.css.
+- Edit the HTML or JSON (if implemented) with your personal data.  
+  Edite o HTML ou JSON (se implementado) com seus dados pessoais.
 
-🤝 Contributions
-Feel free to fork the repository and contribute. Suggestions are always welcome!
+- Customize the styles in `styles.css`.  
+  Personalize os estilos em `styles.css`.
 
-📧 Contact
-Lucas Serrato
-LinkedIn
-📩 alfalifeclothes@gmail.com
-☕ Donate: https://livepix.gg/lkshow
+---
 
-📢 This project represents the intersection between technology, education, and design, reinforcing the student’s academic formation and practical skills.
+## 🤝 Contributions | Contribuições
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feel free to fork the project and submit pull requests. Suggestions and improvements are always welcome!  
+Sinta-se à vontade para bifurcar o projeto e enviar pull requests. Sugestões e melhorias são sempre bem-vindas!
 
-📄 Currículo 
-📋 Descrição
-Este projeto foi desenvolvido como parte de uma atividade acadêmica, na qual o professor solicitou a criação de um currículo digital. O objetivo era transformar um currículo tradicional em uma aplicação web responsiva, estruturada e visualmente agradável, utilizando tecnologias da web.
+---
 
-O resultado é um modelo moderno e minimalista chamado Currículo Tsuda, implementado totalmente com HTML, CSS e, opcionalmente, um arquivo JSON para simulação de dados dinâmicos.
+## 📧 Contact | Contato
 
-🎓 Contexto Acadêmico e Tecnologias Utilizadas
-O projeto é baseado nos fundamentos do desenvolvimento front-end, com foco em HTML semântico e CSS estruturado para garantir clareza, manutenibilidade e responsividade. Veja o detalhamento das tecnologias:
+**Lucas Serrato**  
+[LinkedIn](https://www.linkedin.com/in/lucasserrato)  
+📩 alfalifeclothes@gmail.com  
+☕ [Donate / Doe](https://livepix.gg/lkshow)
 
-HTML5: Utilizado para construir a estrutura semântica da página. Tags como <header>, <section>, <article> e <footer> organizam logicamente o conteúdo, melhorando acessibilidade e SEO.
+---
 
-CSS3: Responsável pelo estilo visual. Utiliza princípios de design responsivo com media queries para adaptar o layout a diferentes tamanhos de tela, inclusive dispositivos móveis.
+## 📢 Academic Note | Nota Acadêmica
 
-JSON (Opcional): Pode ser utilizado para armazenar dados como nome, formação, experiência. Embora esta versão carregue dados estaticamente, ela foi projetada para simular uma renderização baseada em dados, com fins educacionais.
+This project represents the intersection of **technology, education, and design**, reinforcing the academic formation and practical skills of the student.
 
-Separação de Responsabilidades: O HTML cuida da estrutura, o CSS do design visual e o JSON (quando utilizado) da camada de dados — demonstrando o entendimento acadêmico de design modular.
-
-🚀 Funcionalidades
-Estrutura HTML limpa e semântica
-
-Layout totalmente responsivo
-
-Personalização fácil com pouco código
-
-Valor educacional para aprendizado de front-end
-
-▶️ Como Usar
-bash
-Copiar
-Editar
-git clone https://github.com/LucasSerrato/curriculoTsuda.git
-cd curriculoTsuda
-Abra o arquivo index.html em um navegador.
-
-Edite o conteúdo no HTML ou JSON (se implementado) com seus dados pessoais.
-
-Personalize o visual através do styles.css.
-
-🤝 Contribuições
-Sinta-se à vontade para bifurcar e contribuir. Sugestões são sempre bem-vindas!
-
-📧 Contato
-Lucas Serrato
-LinkedIn
-📩 alfalifeclothes@gmail.com
-☕ Doe: https://livepix.gg/lkshow
-
-📢 Este projeto representa a interseção entre tecnologia, educação e design, reforçando a formação acadêmica e habilidades práticas do aluno.
+Este projeto representa a interseção entre **tecnologia, educação e design**, reforçando a formação acadêmica e as habilidades práticas do aluno.
