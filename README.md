@@ -1,4 +1,4 @@
-📄 Curriculum
+# 📄 Curriculum
 📋 Description
 This project was developed as part of an academic assignment, in which the professor requested the creation of a digital curriculum (online résumé). The goal was to transform a traditional curriculum into a responsive, structured, and visually appealing web application using web technologies.
 
