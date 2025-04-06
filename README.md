@@ -70,7 +70,7 @@ Sinta-se à vontade para bifurcar o projeto e enviar pull requests. Sugestões e
 ## 📧 Contact | Contato
 
 **Lucas Serrato**  
-[LinkedIn](https://www.linkedin.com/in/lucasserrato)  
+[LinkedIn](https://www.linkedin.com/in/lucasserrato201)  
 📩 alfalifeclothes@gmail.com  
 ☕ [Donate / Doe](https://livepix.gg/lkshow)
 
